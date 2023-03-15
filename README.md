@@ -10,4 +10,6 @@ You can view the code for a particular publication by selecting the relevant bra
 
 * [Life Expectancy - Race Ethnicity - 2022](https://github.com/ihmeuw/CVDdisparities/tree/life_expectancy_race_ethnicity_2022)
 
+* [Cardiovascular Mortality - Race Ethnicity - 2023](https://github.com/ihmeuw/CVDdisparities/tree/cvd_mortality_race_ethnicity_2023)
+
 You may find the main IHME website [here](http://www.healthdata.org).
